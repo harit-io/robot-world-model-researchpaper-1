@@ -12,17 +12,16 @@ Motivation : Training robots through repeated trial-and-error is costly, time-co
 
 Results : The proposed architecture successfully learns to perform simulated control tasks while requiring significantly fewer real interactions than conventional reinforcement learning methods.
 
-Limitations : 1) The framework does not include a mechanism for generating human-understandable explanations for its decisions.
+Limitations : 
 
-              2) The robot is uncertain but acts anyway.
-              
+              1) The framework does not include a mechanism for generating human-understandable explanations for its decisions.
+             2) The robot is uncertain but acts anyway.
               3) Errors accumulate over time.
 
-              
-open research questions -1) Can we design a world model that generates human-understandable explanations before executing an action?
+open research questions :                   
 
-                         2) Can a robot estimate its own uncertainty before taking an action?
-                         
-                         3) Can robots continuously update their world model while operating in dynamic environments?   
+                    -1) Can we design a world model that generates human-understandable explanations before executing an action?    
+                    2) Can a robot estimate its own uncertainty before taking an action?                         
+                   3) Can robots continuously update their world model while operating in dynamic environments?   
 
                     
