@@ -1,4 +1,4 @@
-#Title:World Models of robotics #
+Title:World Models of robotics 
 Authors:David Ha, Jürgen Schmidhuber
 Year:2018
 Problem : Current reinforcement learning agents require a large number of real-world interactions to learn effective behaviors, making them inefficient and impractical for many robotic applications.
